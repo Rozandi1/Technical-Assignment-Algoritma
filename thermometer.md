@@ -8,18 +8,11 @@ fahrenheit to celcius = (N - 32) * (5/9)
 kelvin to celcius = (N - 273.15)
 celcius to celcius = N
 
-- buat inputan untuk mengubah suhu ke celcius
-- tipe suhu yaitu Fahrenheit, kelvin dan celcius
-- mengkonversi fahrenheit ke celcius = (N - 32) * (5/9)
-- mengkonversi kelvin ke celcius = (N - 273.15)
-- output celcius = N
-
 ## Pseudocode
-
 START
 STORE N as integer with any value
 STORE type as string with any value
-STORE result as interger
+STORE result as integer
 IF (type equal fahrenheit)
     calculate (N - 32) * (5/9)
     SET result with calculation result

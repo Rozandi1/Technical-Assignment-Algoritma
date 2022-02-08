@@ -8,11 +8,13 @@ Input hanya dapat menerima tipe data berupa string/teks.
 
 ## Pseudocode
 
+START
 STORE "input" with any STRING
 STORE "palindrom"
 FOR "input" FROM "input" index "input" length -1 TO "input"
     SET "palindrom" WITH "palindrom" CONCAT WITH "input" index "input"
 END FOR
+
 IF "input" is equal "palindrom"
     DISPLAY "TRUE"
 ELSE

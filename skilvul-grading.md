@@ -14,4 +14,13 @@ Output berupa Nilai Akhir baik yang dapat dilakukan pembulatan ataupun tidak
 
 ## Pseudocode
 
-STORE 
+START 
+DECLARE multiples '5' as collection on integer
+DECLARE multiples '<5' as integer with value
+
+IF grade '>68' 
+    DISPLAY 'LULUS'
+ELSE IF '<68'
+    DISPLAY 'TIDAK LULUS'
+ELSE
+END
